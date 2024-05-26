@@ -1,4 +1,4 @@
-# Reproducible-Research_Project
+# Reproducible Research Project
 
 This project aims to reproduce [Credit Scoring Algorithm](https://www.kaggle.com/code/willianleite/credit-scoring-algorithm) by Willian Trindade Leite and Gui Gui.
 
