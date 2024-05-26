@@ -1,0 +1,9 @@
+name: Required version of python and its libraries
+
+dependencies:
+-python= 3.9.13
+-sklearnscikit-learn=1.0.5
+-pandas= 2.2.2
+-matplotlib= 3.9
+-numpy=1.26.4
+-statsmodel=0.14.2
